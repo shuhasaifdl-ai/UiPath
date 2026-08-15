@@ -1,0 +1,17 @@
+﻿# UiPath
+.local/
+.settings/
+.objects/
+.tmh/
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# .NET
+bin/
+obj/
+# OS / エディタ
+.DS_Store
+Thumbs.db
+.vs/
